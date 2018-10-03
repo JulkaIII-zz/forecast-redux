@@ -1,3 +1,3 @@
 # forecast-redux
 
-Created with https://github.com/StephenGrider/ReduxSimpleStarter
+build with boilerplate https://github.com/StephenGrider/ReduxSimpleStarter
